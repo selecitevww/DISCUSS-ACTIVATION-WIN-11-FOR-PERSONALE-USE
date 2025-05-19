@@ -1,4 +1,4 @@
-@echo on
+@echo off
 chcp 65001
 cd %windir%\system32
 color 70
