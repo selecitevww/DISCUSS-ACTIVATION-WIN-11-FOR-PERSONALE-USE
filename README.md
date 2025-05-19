@@ -77,6 +77,25 @@ exit
 EXAMPLE READING IN PDF:
 https://github.com/selecitevww/DISCUSS-ACTIVATION-WIN-11-FOR-PERSONALE-USE/blob/main/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%BC%D0%B8%20(KMS)%20%D0%B8%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20Windows%20Server%20%D0%B8%20Windows%20_%20Microsoft%20Learn.pdf
 
+Common Name (CN)	learn.microsoft.com
+Organization (O)	Microsoft Corporation
+Organizational Unit (OU)	<Not Part Of Certificate>
+
+Common Name (CN)	Microsoft Azure ECC TLS Issuing CA 07
+Organization (O)	Microsoft Corporation
+Organizational Unit (OU)	<Not Part Of Certificate>
+
+
+Issued On	Monday, October 28, 2024 at 1:33:13 PM
+Expires On	Thursday, October 23, 2025 at 1:33:13 PM
+
+
+Certificate	d6353e524727d0f657e8b4bd09e3457a1ac27bdbab98d729e6eed8214a18a292
+Public Key	a11771e528a0dcbfb6137c529c4378cc9c12dc332640d812715e3e7348598c67
+
+
+
+
 (SHORT TEXT)
 
 Версия операционной системы	Ключ продукта клиента KMS
