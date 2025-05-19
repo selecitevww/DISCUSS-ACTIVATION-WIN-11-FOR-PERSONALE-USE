@@ -1,7 +1,7 @@
 @echo on
 chcp 65001
 cd %windir%\system32
-color B
+color 70
 CLS
 echo Введите ключ активации Windows:
 set /p key1=
