@@ -106,52 +106,53 @@ PDF DOWNLOAD:
 
 (SHORT TEXT)
 
-Версия операционной системы	Ключ продукта клиента KMS
+> Версия операционной системы	Ключ продукта клиента KMS
 
-Windows 11 Профессиональная
-
-Windows 10 Профессиональная	W269N-WFGWX-YVC9B-4J6C9-T83GX
-
-Windows 11 Pro N
-
-Windows 10 Pro N	MH37W-N47XK-V7XM9-C7227-GCQG9
-
-Windows 11 Pro для рабочих станций
-
-Windows 10 Pro для рабочих станций	NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
-
-Windows 11 Pro для рабочих станций N
-
-Windows 10 Pro для рабочих станций N	9FNHH-K3HBT-3W4TD-6383H-6XYWF
-
-Windows 11 Pro для образовательных учреждений
-
-Windows 10 Pro для образовательных учреждений	6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
-
-Windows 11 Pro для образовательных учреждений N
-
-Windows 10 Pro для образовательных учреждений N	YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
-
-Windows 11 для образовательных учреждений
-
-Windows 10 для образовательных учреждений	NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
-
-Windows 11 для образовательных учреждений N
-
-Windows 10 для образовательных учреждений N	2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
-
-Windows 11 Корпоративная
-
-Windows 10 Корпоративная	NPPR9-FWDCX-D2C8J-H872K-2YT43
-
-Windows 11 Корпоративная N
-
-Windows 10 Корпоративная N	DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-
-Windows 11 Корпоративная G
-
-Windows 10 Корпоративная G	YYVX9-NTFWV-6MDM3-9PT4T-4M68B
-
-Windows 11 Корпоративная G N
-
-Windows 10 Корпоративная G N	44RPN-FTY23-9VTTB-MP9BX-T84FV
+> Windows 11 Профессиональная
+> 
+> Windows 10 Профессиональная	W269N-WFGWX-YVC9B-4J6C9-T83GX
+> 
+> Windows 11 Pro N
+> 
+> Windows 10 Pro N	MH37W-N47XK-V7XM9-C7227-GCQG9
+> 
+> Windows 11 Pro для рабочих станций
+> 
+> Windows 10 Pro для рабочих станций	NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+> 
+> Windows 11 Pro для рабочих станций N
+> 
+> Windows 10 Pro для рабочих станций N	9FNHH-K3HBT-3W4TD-6383H-6XYWF
+> 
+> Windows 11 Pro для образовательных учреждений
+> 
+> Windows 10 Pro для образовательных учреждений	6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+> 
+> Windows 11 Pro для образовательных учреждений N
+> 
+> Windows 10 Pro для образовательных учреждений N	YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
+> 
+> Windows 11 для образовательных учреждений
+> 
+> Windows 10 для образовательных учреждений	NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+> 
+> Windows 11 для образовательных учреждений N
+> 
+> Windows 10 для образовательных учреждений N	2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+> 
+> Windows 11 Корпоративная
+> 
+> Windows 10 Корпоративная	NPPR9-FWDCX-D2C8J-H872K-2YT43
+> 
+> Windows 11 Корпоративная N
+> 
+> Windows 10 Корпоративная N	DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+> 
+> Windows 11 Корпоративная G
+> 
+> Windows 10 Корпоративная G	YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+> 
+> Windows 11 Корпоративная G N
+>
+> Windows 10 Корпоративная G N	44RPN-FTY23-9VTTB-MP9BX-T84FV
+>         MATERIAL WITH: https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys?tabs=server2016%2Cwindows102015%2C2008%2Cwindowsvista
