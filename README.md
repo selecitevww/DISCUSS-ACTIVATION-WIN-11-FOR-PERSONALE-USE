@@ -155,4 +155,5 @@ PDF DOWNLOAD:
 > Windows 11 Корпоративная G N
 >
 > Windows 10 Корпоративная G N	44RPN-FTY23-9VTTB-MP9BX-T84FV
+> 
 >         MATERIAL WITH: https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys?tabs=server2016%2Cwindows102015%2C2008%2Cwindowsvista
